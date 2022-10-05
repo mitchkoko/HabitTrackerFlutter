@@ -1,16 +1,5 @@
-# habittrackertute
+# HABIT TRACKER x FLUTTER
 
-A new Flutter project.
+Watch the tutorial here: https://youtu.be/2VKpq4h3Sdw
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![D0579C15-F31C-4BFD-A9FC-2941E0A0F8FA](https://user-images.githubusercontent.com/29016489/194004331-a313f587-d45a-41d4-919d-95680f339ea7.JPG)
